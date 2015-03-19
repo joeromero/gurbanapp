@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mapa Activitats Molestes BCN</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prompt1">mes</string>
+    <string name="prompt2">any</string>
+    <string name="button">Mapa Activitats Molestes BCN</string>
+
+</resources>
